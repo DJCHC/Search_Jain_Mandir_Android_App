@@ -2,6 +2,10 @@
 <resources>
 
     <string name="app_name">JainMandirSearch</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">JainMap</string>
+    <string name="title_activity_main">StartActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_geo_fence">GeoFencing</string>
 
 </resources>
